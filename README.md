@@ -1,7 +1,7 @@
   Creator and owner of Powersoft, a FOSS software creating company, highly inspired by FSF
 
 More info at 
-Contact me at mertaura5+powersoft-mertdev@powersoft.org@gmail.com
+Contact me at mertaura5+powersoft@gmail.com
 
 Powersoft Website at:
 https://gentle-clafoutis-8f014e.netlify.app/
