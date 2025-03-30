@@ -1,16 +1,16 @@
-  Creator and owner of Powersoft, a FOSS software creating company, highly inspired by FSF
+  Creator and owner of Powersoft, a FOSS software creating company, highly inspired by the FSF
 
 More info at 
 Contact me at mertaura5+powersoft@gmail.com
 
 Powersoft Website at:
-https://gentle-clafoutis-8f014e.netlify.app/
+https://powersoftfoundation.netlify.app/
 
 PowerOS Website at:
-https://visionary-quokka-5b0158.netlify.app/
+https://powerospowersoft.netlify.app/
 
 PowerOSR Installation Guide at:
-https://comfy-dolphin-a33aeb.netlify.app/
+https://powerosr.netlify.app/
 
       
 
